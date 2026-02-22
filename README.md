@@ -7,8 +7,10 @@ Here is a collection of my 3D modeling and visualization works, primarily create
 这里收录了我主要使用 Blender 制作的 3D 建模与可视化作品。项目涵盖了工业可视化、结构逆向工程以及概念设计。
 
 ---
-## 202407 - 202408
-## 1. Chemical Plant Visualization / 化学工厂可视化
+
+## 1. Chemical Plant Visualization / 化学工厂可视化 
+### D a t e : [ 2024-07 ~ 2024-08 ]
+
 This section showcases a freelance visualization project commissioned by a corporate client. Based on the 2D CAD drawings provided by the client, I was solely responsible for the 3D modeling, material texturing, and final rendering of the entire industrial pipeline and reactor layout.
 
 本部分展示了受企业客户委托的商业可视化外包项目。基于客户提供的 2D CAD 图纸，我独立完成了整个工业管线与反应釜布局的 3D 建模、材质赋予以及最终渲染交付。
