@@ -66,22 +66,22 @@ This project involves the internal structural modeling of a smart electrical swi
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 效果图1-爆炸图]" width="100%" alt="Rendered Exploded View">
+      <img src="https://github.com/user-attachments/assets/c0fc9c46-5365-47d6-b75c-da5edee22181" width="100%" alt="Rendered Exploded View">
       <br><b>Rendered Effect / 最终渲染效果 (Exploded View)</b>
     </td>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 原图/白模图1-对应爆炸图]" width="100%" alt="Viewport Exploded View">
+      <img src="https://github.com/user-attachments/assets/ca1bdc29-9beb-4d62-9e0b-541983c9e9d7" width="100%" alt="Viewport Exploded View">
       <br><b>Viewport Solid / 视窗白模 (Geometry Check)</b>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 效果图2-PCB细节或其他角度]" width="100%" alt="Rendered Detail View">
-      <br><b>Rendered Effect / 最终渲染效果 (PCB Details)</b>
+      <img src="https://github.com/user-attachments/assets/2c3b4006-6334-4e55-9fe4-be06cb1c3e30" width="100%" alt="Rendered Detail View in Unreal5">
+      <br><b>Rendered Effect / 虚幻5中渲染效果 (In UE5)</b>
     </td>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 原图/白模图2-对应细节图]" width="100%" alt="Viewport Detail View">
-      <br><b>Viewport Solid / 视窗白模 (Topology Check)</b>
+      <img src="https://github.com/user-attachments/assets/e0e099b8-5993-4e56-83c2-ad14fd65419d" width="100%" alt="Final works">
+      <br><b> Final works / 最终效果</b>
     </td>
   </tr>
 </table>
