@@ -14,9 +14,9 @@ This section showcases a freelance visualization project commissioned by a corpo
 本部分展示了受企业客户委托的商业可视化外包项目。基于客户提供的 2D CAD 图纸，我独立完成了整个工业管线与反应釜布局的 3D 建模、材质赋予以及最终渲染交付。
 
 > ⚠️ **Note / 标注:** 
-> This is a commercial project. All original industrial designs and trademarks (e.g., muru SOLUTION) belong to the client. To respect client confidentiality and copyright, only final rendered images are displayed. The `.blend` source files and structural data are strictly withheld.
+> This is a commercial project. All original industrial designs and trademarks (e.g., muru SOLUTION) belong to the client. To respect client confidentiality and copyright, only final rendered images are displayed. The `.blend` source files, Blueprintand and structural data are strictly withheld.
 > 
-> 本项目为商业委托，所有原始工业设计与商标（如 muru SOLUTION）均归客户所有。出于对客户保密协议与版权的尊重，此处仅展示最终渲染效果图，绝不公开 `.blend` 源文件及底层结构数据。
+> 本项目为商业委托，所有原始工业设计与商标（如 muru SOLUTION）均归客户所有。出于对客户保密协议与版权的尊重，此处仅展示最终渲染效果图，绝不公开 `.blend` 源文件及底层结构数据和图纸。
 
 <table width="100%">
   <tr>
