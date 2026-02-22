@@ -86,7 +86,20 @@ This project involves the internal structural modeling of a smart electrical swi
   </tr>
 </table>
 
+**Design References / 建模参考图：**
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/0db24405-85fd-47da-8138-e15a30ee56e7" width="100%"></td>
+    <td width="50%" align="center"><img src="[https://github.com/user-attachments/assets/982e6384-96c8-4dd6-8008-a396b1a8f6ca](https://github.com/user-attachments/assets/ed7fa22f-e6cb-40e7-ab28-cb3413cf2d25)" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="[https://github.com/user-attachments/assets/2f3712fa-eada-46a8-ae81-de669178d4d2](https://github.com/user-attachments/assets/3bce182d-0dff-4aee-8bdc-0909e9452a1e)" width="100%"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/af5e78fa-5884-471d-87d2-07d8922d21ed" width="100%"></td>
+  </tr>
+</table>
+
 ---
+
 
 ## 3. Mechanical Concept Design: "Flying Ant" / 概念机械设计：飞蚂蚁
 A conceptual design of a bionic mechanical flying ant, integrating hard-surface modeling with mechanical joint design.
