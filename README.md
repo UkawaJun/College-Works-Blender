@@ -9,14 +9,14 @@ Here is a collection of my 3D modeling and visualization works, primarily create
 ---
 ## 202407 - 202408
 ## 1. Chemical Plant Visualization / 化学工厂可视化
-This section includes 3D models of two different chemical plants. The focus was on the spatial layout of industrial pipelines and reactor equipment.
+This section showcases a freelance visualization project commissioned by a corporate client. Based on the 2D CAD drawings provided by the client, I was solely responsible for the 3D modeling, material texturing, and final rendering of the entire industrial pipeline and reactor layout.
 
-本部分包含两个不同化学工厂的 3D 模型。重点在于工业管线与反应设备的物理空间排布与搭建。
+本部分展示了受企业客户委托的商业可视化外包项目。基于客户提供的 2D CAD 图纸，我独立完成了整个工业管线与反应釜布局的 3D 建模、材质赋予以及最终渲染交付。
 
 > ⚠️ **Note / 标注:** 
-> Due to copyright restrictions, only rendered images are displayed here. The `.blend` source files are not publicly available.
+> This is a commercial project. All original industrial designs and trademarks (e.g., muru SOLUTION) belong to the client. To respect client confidentiality and copyright, only final rendered images are displayed. The `.blend` source files and structural data are strictly withheld.
 > 
-> 由于版权原因，此处仅公开渲染效果图，不公开 `.blend` 源文件。
+> 本项目为商业委托，所有原始工业设计与商标（如 muru SOLUTION）均归客户所有。出于对客户保密协议与版权的尊重，此处仅展示最终渲染效果图，绝不公开 `.blend` 源文件及底层结构数据。
 
 <table width="100%">
   <tr>
