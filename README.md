@@ -57,10 +57,12 @@ This section showcases a freelance visualization project commissioned by a corpo
 
 ## 2. Electrical Switch Reverse-Engineering / 电器开关逆向建模
 This project involves the internal structural modeling of a smart electrical switch. It includes the restoration of the PCB board, electronic components, and physical assembly logic.
+
 本项目为一个智能电器开关的内部结构建模，包含 PCB 板、电子元器件及物理组装逻辑的还原。
 
 > ⚠️ **Note / 标注:** 
 > Due to copyright restrictions, only images are public. Source files are withheld.
+> 
 > 由于版权原因，仅公开展示图片，不提供源文件。
 
 <table width="100%">
