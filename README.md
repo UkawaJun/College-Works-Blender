@@ -1,38 +1,52 @@
-# 3D Modeling & Visualization Portfolio / 3D可视化与建模作品集
+# 3D Modeling & Visualization Portfolio /
+
+3D可视化与建模作品集
 
 Here is a collection of my 3D modeling and visualization works, primarily created using Blender. The projects range from industrial visualization to structural reverse-engineering and conceptual design. 
 
 这里收录了我主要使用 Blender 制作的 3D 建模与可视化作品。项目涵盖了工业可视化、结构逆向工程以及概念设计。
 
 ---
-
+## 202407 - 202408
 ## 1. Chemical Plant Visualization / 化学工厂可视化
 This section includes 3D models of two different chemical plants. The focus was on the spatial layout of industrial pipelines and reactor equipment.
+
 本部分包含两个不同化学工厂的 3D 模型。重点在于工业管线与反应设备的物理空间排布与搭建。
 
 > ⚠️ **Note / 标注:** 
 > Due to copyright restrictions, only rendered images are displayed here. The `.blend` source files are not publicly available.
+> 
 > 由于版权原因，此处仅公开渲染效果图，不公开 `.blend` 源文件。
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 化工厂A-图1]" width="100%" alt="Chemical Plant A - View 1">
+      <img src="https://github.com/user-attachments/assets/45e16b11-00a3-4e57-9c9f-53e4c8a3d85b" width="100%" alt="Chemical Plant A - View 1">
       <br><i>Plant A - Overall Layout / 工厂A - 整体布局</i>
     </td>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 化工厂A-图2]" width="100%" alt="Chemical Plant A - View 2">
+      <img src="https://github.com/user-attachments/assets/aebf1e38-6bc9-40d7-94ee-161d7f35dfa0" width="100%" alt="Chemical Plant A - View 2">
+      <br><i>Plant A - Overall Layout / 工厂A - 整体布局2</i>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/a8330e00-26fc-4b1e-964d-46a5dba8dbb2" width="100%" alt="Chemical Plant A - View 1">
+      <br><i>Plant A - Overall Layout / 工厂A - 整体布局3</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/ef642930-8140-48a2-8840-65386defd6b0" width="100%" alt="Chemical Plant A - View 2">
       <br><i>Plant A - Pipeline Details / 工厂A - 管线细节</i>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 化工厂B-图1]" width="100%" alt="Chemical Plant B - View 1">
+      <img src="https://github.com/user-attachments/assets/1222f5ec-508f-41e0-b35a-3ce6638f7641">
       <br><i>Plant B - Overall Layout / 工厂B - 整体布局</i>
     </td>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 化工厂B-图2]" width="100%" alt="Chemical Plant B - View 2">
-      <br><i>Plant B - Equipment Details / 工厂B - 设备细节</i>
+      <img src="https://github.com/user-attachments/assets/0e9dcbcf-1bf1-40b4-99d7-ca24f3af40d7">
+      <br><i>Plant B - Overall Layout / 工厂B - 整体布局</i>
     </td>
   </tr>
 </table>
