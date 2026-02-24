@@ -199,13 +199,14 @@ This section contains daily 3D modeling exercises, primarily focusing on the rev
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/6cea589c-48d9-4f13-ad96-1bd2983f0e5e" width="100%" alt="WiFi model (MCU) Modeling">
-      <br><i>WiFi model (MCU) Modeling 3 / 单片机逆向建模3</i>
-    </td>
-    <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/3a960bbe-92d4-4010-84f4-a9ac0cc3db84" width="100%" alt="sword">
       <br><i>sword / 剑</i>
     </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/6cea589c-48d9-4f13-ad96-1bd2983f0e5e" width="100%" alt="WiFi model (MCU) Modeling">
+      <br><i>WiFi model (MCU) Modeling 3 / 单片机逆向建模3</i>
+    </td>
+
   </tr>
   <tr>
     <td width="50%" align="center">
@@ -244,4 +245,5 @@ Daily practice pieces focused on boolean operations, topology flow, and hard-sur
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/ebfc5779-946a-428d-adc7-c550a994ad37" width="100%"></td>
   </tr>
 </table>
+
 ---
