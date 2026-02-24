@@ -124,9 +124,6 @@ The core gameplay requires players to rescue 4 survivors in a burning environmen
 
 核心玩法要求玩家在火灾场景中营救 4 名被困者。游戏难点在于路线寻优：每救一人，火焰会根据特定模式蔓延。玩家必须分析房间结构以计算出最佳救援路径。机械飞蚁搭载了“飞行”与“行走”双状态移动系统，并包含交互式的状态动画（如触碰火焰后的机身燃烧效果）。
 
-<img width="1920" height="1080" alt="微信图片_20250204193044_4012_55" src="https://github.com/user-attachments/assets/1b7a5716-e86d-42a3-b4b7-82ffd00cbc56" />
-
-<img width="1079" height="634" alt="微信图片_20250204195903_3968_55" src="https://github.com/user-attachments/assets/aab6c88f-cf3a-447a-89a4-90e97d0fd741" />
 <img width="1337" height="895" alt="微信图片_20250204202047_3951_55" src="https://github.com/user-attachments/assets/be422668-6650-4d8b-ad2a-dd00f344ffba" />
 
 **Asset Pipeline / 资产工作流展示：**
