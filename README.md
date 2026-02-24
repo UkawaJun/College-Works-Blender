@@ -6,6 +6,13 @@ Here is a collection of my 3D modeling and visualization works, primarily create
 
 这里收录了我主要使用 Blender 制作的 3D 建模与可视化作品。项目涵盖了工业可视化、结构逆向工程以及概念设计。
 
+> 🛡️ **Declaration of Originality / 原创声明**
+> 
+> I hereby declare that all 3D models, geometries (topology), textures, and renders showcased in this portfolio were created entirely from scratch by myself, unless explicitly stated otherwise (e.g., the commissioned collaborative project). No pre-made downloaded 3D assets were used.
+> 
+> 特此声明：本作品集中展示的所有 3D 模型、几何拓扑布线、材质贴图及最终渲染，除特别标注的团队协作项目外，均为本人从零开始独立制作，绝未使用任何网络下载的现成 3D 资产（Asset）。
+>
+> 
 ---
 
 ## 1. Chemical Plant Visualization / 化学工厂可视化 
@@ -16,7 +23,7 @@ This section showcases a freelance visualization project commissioned by a corpo
 本部分展示了受企业客户委托的商业可视化外包项目。基于客户提供的 2D CAD 图纸，我独立完成了整个工业管线与反应釜布局的 3D 建模、材质赋予以及最终渲染交付。
 
 > ⚠️ **Note / 标注:** 
-> This is a commercial project. All original industrial designs and trademarks (e.g., muru SOLUTION) belong to the client. To respect client confidentiality and copyright, only final rendered images are displayed. The `.blend` source files, Blueprintand and structural data are strictly withheld.
+> This is a commercial project. All original industrial designs and trademarks (e.g., muru SOLUTION) belong to the client. To respect client confidentiality and copyright, only final rendered images are displayed. The `.blend` source files, Blueprints, and structural data are strictly withheld.
 > 
 > 本项目为商业委托，所有原始工业设计与商标（如 muru SOLUTION）均归客户所有。出于对客户保密协议与版权的尊重，此处仅展示最终渲染效果图，绝不公开 `.blend` 源文件及底层结构数据和图纸。
 
@@ -114,7 +121,7 @@ The project was executed through a two-person collaboration: I was exclusively r
 ## 3. Seven-Hour Game Jam Project: "Mechanical Flying Ant" / 7小时极限开发项目：机械飞蚁
 
 **D a t e : [ 2025-04 ]**
-**Tech Stack : Blender | Substance Painter | IdeaVR Engine (based on godot) **
+Tech Stack : Blender | Substance Painter | IdeaVR Engine (based on godot) 
 
 This game prototype was developed during a 7-hour internal school Game Jam. Inspired by a friend's concept art, I independently completed the 3D assets, animations, and game logic integration within the time limit. 
 
@@ -124,7 +131,7 @@ The core gameplay requires players to rescue 4 survivors in a burning environmen
 
 核心玩法要求玩家在火灾场景中营救 4 名被困者。游戏难点在于路线寻优：每救一人，火焰会根据特定模式蔓延。玩家必须分析房间结构以计算出最佳救援路径。机械飞蚁搭载了“飞行”与“行走”双状态移动系统，并包含交互式的状态动画（如触碰火焰后的机身燃烧效果）。
 
-<img width="1522" height="1279" alt="2737edcf4e78feaff86abf16ce3c5244" src="https://github.com/user-attachments/assets/9298ac8d-c30f-456c-9120-d85ddb6ad570" />
+<img width="1522" height="1279" alt="2737edcf4e78feaff86abf16ce3c5244" src="https://github.com/user-attachments/assets/1d415814-3380-465f-86a8-1df9ab118afe" />
 
 
 **Asset Pipeline / 资产工作流展示：**
@@ -145,8 +152,8 @@ The core gameplay requires players to rescue 4 survivors in a burning environmen
       <br><i>3. IdeaVR Engine Integration / IdeaVR 引擎导入测试</i>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/43313f91-701c-41ef-bae3-294c4a85c487" width="100%" alt="Model wiring">
-      <br><i>4. Model wiring / 模型布线 </i>
+      <img src="https://github.com/user-attachments/assets/43313f91-701c-41ef-bae3-294c4a85c487" width="100%" alt="Wireframe">
+      <br><i>4. Wireframe & Topology / 模型布线 </i>
     </td>
   </tr>
 </table>
@@ -186,12 +193,7 @@ The core gameplay requires players to rescue 4 survivors in a burning environmen
 This section contains daily 3D modeling exercises, primarily focusing on the reverse-engineering of microcontrollers and electronic components based on physical reference photos, as well as other structural design practices. 
 
 本部分收录了日常的 3D 建模练习作品，主要包括基于实物照片对单片机及周边电子元器件的精准逆向建模，以及其他相关的结构设计练习。
-> 🛡️ **Declaration of Originality / 原创声明**
-> 
-> I hereby declare that all 3D models, geometries (topology), textures, and renders showcased in this portfolio were created entirely from scratch by myself, unless explicitly stated otherwise (e.g., the commissioned collaborative project). No pre-made downloaded 3D assets were used.
-> 
-> 特此声明：本作品集中展示的所有 3D 模型、几何拓扑布线、材质贴图及最终渲染，除特别标注的团队协作项目外，均为本人从零开始独立制作，绝未使用任何网络下载的现成 3D 资产（Asset）。
-> 
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
