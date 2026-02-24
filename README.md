@@ -117,34 +117,42 @@ The project was executed through a two-person collaboration: I was exclusively r
 **Tech Stack : Blender | Substance Painter | IdeaVR Engine (based on godot) **
 
 This game prototype was developed during a 7-hour internal school Game Jam. Inspired by a friend's concept art, I independently completed the 3D assets, animations, and game logic integration within the time limit. 
+
 本项目诞生于一次校内举办的 7 小时极限游戏开发竞赛（Game Jam）。基于朋友绘制的机械飞蚁原画，我在时限内独立完成了 3D 资产制作、动画绑定以及游戏引擎逻辑的整合。
 
 The core gameplay requires players to rescue 4 survivors in a burning environment. The challenge lies in route optimization: saving a person triggers the fire to spread in specific structural patterns. The player must analyze the room's layout to deduce the optimal path. The mechanical ant features a dual-state locomotion system ("flying" and "walking") and interactive state animations, such as fire attaching to the chassis upon collision.
+
 核心玩法要求玩家在火灾场景中营救 4 名被困者。游戏难点在于路线寻优：每救一人，火焰会根据特定模式蔓延。玩家必须分析房间结构以计算出最佳救援路径。机械飞蚁搭载了“飞行”与“行走”双状态移动系统，并包含交互式的状态动画（如触碰火焰后的机身燃烧效果）。
+
+<img width="1920" height="1080" alt="微信图片_20250204193044_4012_55" src="https://github.com/user-attachments/assets/1b7a5716-e86d-42a3-b4b7-82ffd00cbc56" />
+
+<img width="1079" height="634" alt="微信图片_20250204195903_3968_55" src="https://github.com/user-attachments/assets/aab6c88f-cf3a-447a-89a4-90e97d0fd741" />
+<img width="1337" height="895" alt="微信图片_20250204202047_3951_55" src="https://github.com/user-attachments/assets/be422668-6650-4d8b-ad2a-dd00f344ffba" />
 
 **Asset Pipeline / 资产工作流展示：**
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 1.blender的渲染模型]" width="100%" alt="Blender Modeling">
+      <img src="https://github.com/user-attachments/assets/1b7a5716-e86d-42a3-b4b7-82ffd00cbc56" width="100%" alt="Blender Modeling">
       <br><i>1. Blender Modeling & Render / 基础建模与渲染</i>
     </td>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 2.subspainter的贴图效果]" width="100%" alt="Substance Painter Texturing">
+      <img src="https://github.com/user-attachments/assets/aab6c88f-cf3a-447a-89a4-90e97d0fd741" width="100%" alt="Substance Painter Texturing">
       <br><i>2. Substance Painter / PBR 材质贴图绘制</i>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 3.导入游戏引擎IdeaVR(based on godot)的效果]" width="100%" alt="IdeaVR Integration">
+      <img src="https://github.com/user-attachments/assets/be422668-6650-4d8b-ad2a-dd00f344ffba" width="100%" alt="IdeaVR Integration">
       <br><i>3. IdeaVR Engine Integration / IdeaVR 引擎导入测试</i>
     </td>
     <td width="50%" align="center">
-      <img src="[你的图片链接: 4.动画K帧]" width="100%" alt="Animation Keyframing">
-      <br><i>4. Rigging & Keyframing / 骨骼绑定与状态机动画K帧</i>
+      <img src="https://github.com/user-attachments/assets/43313f91-701c-41ef-bae3-294c4a85c487" width="100%" alt="Model wiring">
+      <br><i>4. Model wiring / 模型布线 </i>
     </td>
   </tr>
 </table>
+
 
 <br>
 
