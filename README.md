@@ -1,6 +1,6 @@
 # 3D Modeling & Visualization Portfolio /
 
-3D可视化与建模作品集
+# 3D可视化与建模作品集
 
 Here is a collection of my 3D modeling and visualization works, primarily created using Blender. The projects range from industrial visualization to structural reverse-engineering and conceptual design. 
 
@@ -56,14 +56,20 @@ This section showcases a freelance visualization project commissioned by a corpo
 ---
 
 ## 2. Electrical Switch Reverse-Engineering / 电器开关逆向建模
-This project involves the internal structural modeling of a smart electrical switch. It includes the restoration of the PCB board, electronic components, and physical assembly logic.
 
-本项目为一个智能电器开关的内部结构建模，包含 PCB 板、电子元器件及物理组装逻辑的还原。
+**D a t e : [ 2024-03 ~ 2024-04 ]**
+
+This section demonstrates a commissioned freelance project. Based solely on physical reference photos provided by the client (without CAD drawings), a complete internal and external 3D model was reverse-engineered. 
+本部分展示了一个商业委托的外包项目。在无 CAD 图纸的情况下，仅凭借客户提供的几张实物照片，完成了该电器开关内部与外部结构的完整逆向建模。
+
+The project was executed through a two-person collaboration: I was exclusively responsible for the 3D modeling phase in Blender, while my partner handled the animation and final rendering in Unreal Engine 5 (UE5). During the workflow handoff, I strictly optimized the polygon count and adjusted the topology (edge flow) based on pre-negotiated requirements to ensure smooth downstream animation rigging.
+项目采用双人协作模式：我全权负责 Blender 中的 3D 建模环节，另一位成员负责后续在 UE5 中的动画与最终渲染。在开发管线对接时，我根据下游动画需求，提前商定了面数限制，并对模型的拓扑布线（面走向）进行了严格规范与优化。
 
 > ⚠️ **Note / 标注:** 
-> Due to copyright restrictions, only images are public. Source files are withheld.
-> 
-> 由于版权原因，仅公开展示图片，不提供源文件。
+> Due to copyright restrictions of this commercial gig, only layout images are public. Source files are strictly withheld.
+> 基于商业外包的版权原因，此处仅公开展示排版图片，绝不提供源文件。
+
+<!-- 接下来保持你原本的图片 table 代码不变 -->
 
 <table width="100%">
   <tr>
