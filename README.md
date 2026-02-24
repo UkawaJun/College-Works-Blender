@@ -184,8 +184,14 @@ The core gameplay requires players to rescue 4 survivors in a burning environmen
 **Focus : Microcontrollers & Structural Design / 重点：单片机与结构设计**
 
 This section contains daily 3D modeling exercises, primarily focusing on the reverse-engineering of microcontrollers and electronic components based on physical reference photos, as well as other structural design practices. 
-本部分收录了日常的 3D 建模练习作品，主要包括基于实物照片对单片机及周边电子元器件的精准逆向建模，以及其他相关的结构设计练习。
 
+本部分收录了日常的 3D 建模练习作品，主要包括基于实物照片对单片机及周边电子元器件的精准逆向建模，以及其他相关的结构设计练习。
+> 🛡️ **Declaration of Originality / 原创声明**
+> 
+> I hereby declare that all 3D models, geometries (topology), textures, and renders showcased in this portfolio were created entirely from scratch by myself, unless explicitly stated otherwise (e.g., the commissioned collaborative project). No pre-made downloaded 3D assets were used.
+> 
+> 特此声明：本作品集中展示的所有 3D 模型、几何拓扑布线、材质贴图及最终渲染，除特别标注的团队协作项目外，均为本人从零开始独立制作，绝未使用任何网络下载的现成 3D 资产（Asset）。
+> 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -225,6 +231,7 @@ This section contains daily 3D modeling exercises, primarily focusing on the rev
 
 ## 5. Hard-Surface Modeling Practice / 硬表面建模日常练习
 Daily practice pieces focused on boolean operations, topology flow, and hard-surface detailing.
+
 专注于布尔运算、拓扑布线与硬表面细节的日常练习作品。
 
 <!-- 3x3 九宫格 -->
