@@ -177,9 +177,52 @@ The core gameplay requires players to rescue 4 survivors in a burning environmen
     </td>
   </tr>
 </table>
+
+
+## 4. Daily Modeling & Reverse-Engineering Practice / 日常建模与逆向工程练习
+
+**Focus : Microcontrollers & Structural Design / 重点：单片机与结构设计**
+
+This section contains daily 3D modeling exercises, primarily focusing on the reverse-engineering of microcontrollers and electronic components based on physical reference photos, as well as other structural design practices. 
+本部分收录了日常的 3D 建模练习作品，主要包括基于实物照片对单片机及周边电子元器件的精准逆向建模，以及其他相关的结构设计练习。
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/0030ab56-a6e8-48bb-8f32-399c8b132abb" width="100%" alt="Arduino (MCU) Modeling 1">
+      <br><i>Arduino (MCU) Modeling 1 / 单片机逆向建模1</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/c137054b-e5c1-4d4f-8022-53ee83c8272e" width="100%" alt="STM32 (MCU) Modeling 2">
+      <br><i> STM32 (MCU) Modeling 2 / 单片机逆向建模2</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/6cea589c-48d9-4f13-ad96-1bd2983f0e5e" width="100%" alt="WiFi model (MCU) Modeling">
+      <br><i>WiFi model (MCU) Modeling 3 / 单片机逆向建模3</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/3a960bbe-92d4-4010-84f4-a9ac0cc3db84" width="100%" alt="sword">
+      <br><i>sword / 剑</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/fab29bc2-8f5a-44ff-a904-242ad0cef9e3" width="100%" alt="Structural Design Practice 1">
+      <br><i>Structural Design Practice A / 结构设计练习 A</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/f9fa1dcb-2244-4068-9b22-685867370e52" width="100%" alt="Structural Design Practice 2">
+      <br><i>Structural Design Practice B / 结构设计练习 B</i>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
-## 4. Hard-Surface Modeling Practice / 硬表面建模日常练习
+## 5. Hard-Surface Modeling Practice / 硬表面建模日常练习
 Daily practice pieces focused on boolean operations, topology flow, and hard-surface detailing.
 专注于布尔运算、拓扑布线与硬表面细节的日常练习作品。
 
@@ -202,36 +245,3 @@ Daily practice pieces focused on boolean operations, topology flow, and hard-sur
   </tr>
 </table>
 ---
-
-## 5. Early Learning Works / 软件初学阶段记录
-A chronological record of my early works when I first started learning 3D modeling and Blender.
-刚开始学习 3D 建模与 Blender 时的早期作品记录，反映了学习过程。
-
-<!-- 3列 x 5行 宫格 -->
-<table width="100%">
-  <tr>
-    <td width="33%" align="center"><img src="[初学图1]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图2]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图3]" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center"><img src="[初学图4]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图5]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图6]" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center"><img src="[初学图7]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图8]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图9]" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center"><img src="[初学图10]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图11]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图12]" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center"><img src="[初学图13]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图14]" width="100%"></td>
-    <td width="33%" align="center"><img src="[初学图15]" width="100%"></td>
-  </tr>
-</table>
