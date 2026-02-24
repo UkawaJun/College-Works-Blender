@@ -108,7 +108,9 @@ The project was executed through a two-person collaboration: I was exclusively r
     <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/af5e78fa-5884-471d-87d2-07d8922d21ed" width="100%"></td>
   </tr>
 </table>
+
 ---
+
 ## 3. Seven-Hour Game Jam Project: "Mechanical Flying Ant" / 7小时极限开发项目：机械飞蚁
 
 **D a t e : [ 2025-04 ]**
