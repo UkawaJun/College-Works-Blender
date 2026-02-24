@@ -60,13 +60,16 @@ This section showcases a freelance visualization project commissioned by a corpo
 **D a t e : [ 2024-03 ~ 2024-04 ]**
 
 This section demonstrates a commissioned freelance project. Based solely on physical reference photos provided by the client (without CAD drawings), a complete internal and external 3D model was reverse-engineered. 
+
 本部分展示了一个商业委托的外包项目。在无 CAD 图纸的情况下，仅凭借客户提供的几张实物照片，完成了该电器开关内部与外部结构的完整逆向建模。
 
 The project was executed through a two-person collaboration: I was exclusively responsible for the 3D modeling phase in Blender, while my partner handled the animation and final rendering in Unreal Engine 5 (UE5). During the workflow handoff, I strictly optimized the polygon count and adjusted the topology (edge flow) based on pre-negotiated requirements to ensure smooth downstream animation rigging.
+
 项目采用双人协作模式：我全权负责 Blender 中的 3D 建模环节，另一位成员负责后续在 UE5 中的动画与最终渲染。在开发管线对接时，我根据下游动画需求，提前商定了面数限制，并对模型的拓扑布线（面走向）进行了严格规范与优化。
 
 > ⚠️ **Note / 标注:** 
 > Due to copyright restrictions of this commercial gig, only layout images are public. Source files are strictly withheld.
+> 
 > 基于商业外包的版权原因，此处仅公开展示排版图片，绝不提供源文件。
 
 <!-- 接下来保持你原本的图片 table 代码不变 -->
@@ -108,36 +111,66 @@ The project was executed through a two-person collaboration: I was exclusively r
 
 ---
 
-## 3. Mechanical Concept Design: "Flying Ant" / 概念机械设计：飞蚂蚁
-A conceptual design of a bionic mechanical flying ant, integrating hard-surface modeling with mechanical joint design.
-一个仿生机械飞蚂蚁的概念设计，结合了硬表面建模与机械关节设计。
+## 3. Seven-Hour Game Jam Project: "Mechanical Flying Ant" / 7小时极限开发项目：机械飞蚁
 
-> ⚠️ **Note / 标注:** 
-> Copyright reserved. Only images are displayed; `.blend` files are not public.
-> 版权保留，仅展示图片，不公开 `.blend` 源文件。
+**D a t e : [ 2025-04 ]**
+**Tech Stack : Blender | Substance Painter | IdeaVR Engine (based on godot) **
 
-<!-- 两张大图居中展示 -->
-<p align="center">
-  <img src="[你的图片链接: 飞蚂蚁大图1]" width="80%" alt="Mechanical Ant Main Render 1">
-  <br><i>Final Render 1 / 渲染图 1</i>
-</p>
-<p align="center">
-  <img src="[你的图片链接: 飞蚂蚁大图2]" width="80%" alt="Mechanical Ant Main Render 2">
-  <br><i>Final Render 2 / 渲染图 2</i>
-</p>
+This game prototype was developed during a 7-hour internal school Game Jam. Inspired by a friend's concept art, I independently completed the 3D assets, animations, and game logic integration within the time limit. 
+本项目诞生于一次校内举办的 7 小时极限游戏开发竞赛（Game Jam）。基于朋友绘制的机械飞蚁原画，我在时限内独立完成了 3D 资产制作、动画绑定以及游戏引擎逻辑的整合。
 
-**Design References / 建模参考图：**
+The core gameplay requires players to rescue 4 survivors in a burning environment. The challenge lies in route optimization: saving a person triggers the fire to spread in specific structural patterns. The player must analyze the room's layout to deduce the optimal path. The mechanical ant features a dual-state locomotion system ("flying" and "walking") and interactive state animations, such as fire attaching to the chassis upon collision.
+核心玩法要求玩家在火灾场景中营救 4 名被困者。游戏难点在于路线寻优：每救一人，火焰会根据特定模式蔓延。玩家必须分析房间结构以计算出最佳救援路径。机械飞蚁搭载了“飞行”与“行走”双状态移动系统，并包含交互式的状态动画（如触碰火焰后的机身燃烧效果）。
+
+**Asset Pipeline / 资产工作流展示：**
 <table width="100%">
   <tr>
-    <td width="50%" align="center"><img src="[你的图片链接: 参考图1]" width="100%"></td>
-    <td width="50%" align="center"><img src="[你的图片链接: 参考图2]" width="100%"></td>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 1.blender的渲染模型]" width="100%" alt="Blender Modeling">
+      <br><i>1. Blender Modeling & Render / 基础建模与渲染</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 2.subspainter的贴图效果]" width="100%" alt="Substance Painter Texturing">
+      <br><i>2. Substance Painter / PBR 材质贴图绘制</i>
+    </td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="[你的图片链接: 参考图3]" width="100%"></td>
-    <td width="50%" align="center"><img src="[你的图片链接: 参考图4]" width="100%"></td>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 3.导入游戏引擎IdeaVR(based on godot)的效果]" width="100%" alt="IdeaVR Integration">
+      <br><i>3. IdeaVR Engine Integration / IdeaVR 引擎导入测试</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 4.动画K帧]" width="100%" alt="Animation Keyframing">
+      <br><i>4. Rigging & Keyframing / 骨骼绑定与状态机动画K帧</i>
+    </td>
   </tr>
 </table>
 
+<br>
+
+**Game Implementation & Logic / 游戏实机与底层逻辑：**
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 1.游戏场景剖面图]" width="100%" alt="Level Design Cross-section">
+      <br><i>1. Level Design Cross-section / 关卡设计与场景剖面</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 2.可视化代码部分截图]" width="100%" alt="Gameplay Scripting">
+      <br><i>2. Core Logic Scripting / 核心系统代码截图</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 3.游戏界面]" width="100%" alt="Gameplay Interface">
+      <br><i>3. Gameplay Interface / 游戏实机 UI 界面</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="[你的图片链接: 4.火焰图]" width="100%" alt="Fire Propagation Mechanics">
+      <br><i>4. Fire Propagation Mechanics / 火焰动态蔓延机制</i>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 4. Hard-Surface Modeling Practice / 硬表面建模日常练习
